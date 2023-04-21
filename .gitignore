@@ -1,0 +1,8 @@
+#ejecutables
+*
+!*/
+!*.c
+!*.h
+
+#lenguaje objeto
+*.o
